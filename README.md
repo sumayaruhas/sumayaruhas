@@ -1,7 +1,4 @@
 <h1 align="center">Hi! I'm Sumaya Rahman</h1>
-<h3 align="center">I am passionate about Programming</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumayaruhas&label=Profile%20views&color=0e75b6&style=flat" alt="sumayaruhas" /> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
